@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VacationPicker/static/css/main.de539e58.css",
+    "main.js": "/VacationPicker/static/js/main.144c305d.js",
+    "index.html": "/VacationPicker/index.html",
+    "main.de539e58.css.map": "/VacationPicker/static/css/main.de539e58.css.map",
+    "main.144c305d.js.map": "/VacationPicker/static/js/main.144c305d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de539e58.css",
+    "static/js/main.144c305d.js"
+  ]
+}
