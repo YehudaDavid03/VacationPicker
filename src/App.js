@@ -23,7 +23,7 @@ function App() {
   useEffect(() => {
     axios({
       method: "get",
-      url: "http://70.23.96.219:8080/api-all",
+      url: "https://70.23.96.219:8080/api-all",
     }).then((response) => {
       setData(response.data)
     }).catch((err) => {

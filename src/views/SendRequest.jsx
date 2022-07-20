@@ -44,7 +44,7 @@ const SendRequest = () => {
     if (validateEmail(sendReqToEmail.email) && validURL(sendReqToEmail.image) && sendReqToEmail.title.length > 3 && sendReqToEmail.summary.length > 6 && sendReqToEmail.type.length > 0 && sendReqToEmail.temperature.length > 0 && sendReqToEmail.flight.length > 0) {
       axios({
         method: "post",
-        url: "http://70.23.96.219:8080/request-add-spot",
+        url: "https://70.23.96.219:8080/request-add-spot",
         data: {
           email: sendReqToEmail.email,
           image: sendReqToEmail.image,
