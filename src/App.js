@@ -23,7 +23,7 @@ function App() {
   useEffect(() => {
     axios({
       method: "get",
-      url: "https://70.23.96.219:8080/api-all",
+      url: "https://main-heroku-server.herokuapp.com/api-all",
     }).then((response) => {
       setData(response.data)
     }).catch((err) => {
