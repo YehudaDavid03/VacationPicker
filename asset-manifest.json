@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VacationPicker/static/css/main.de539e58.css",
-    "main.js": "/VacationPicker/static/js/main.cfe90ae2.js",
+    "main.js": "/VacationPicker/static/js/main.5bb044f3.js",
     "index.html": "/VacationPicker/index.html",
     "main.de539e58.css.map": "/VacationPicker/static/css/main.de539e58.css.map",
-    "main.cfe90ae2.js.map": "/VacationPicker/static/js/main.cfe90ae2.js.map"
+    "main.5bb044f3.js.map": "/VacationPicker/static/js/main.5bb044f3.js.map"
   },
   "entrypoints": [
     "static/css/main.de539e58.css",
-    "static/js/main.cfe90ae2.js"
+    "static/js/main.5bb044f3.js"
   ]
 }
