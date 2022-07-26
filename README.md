@@ -1,4 +1,5 @@
 Author: Yehuda (Mordechai) David
 Title: WordleDubplicate
-Start Date: july 20, 2022
-Description: Simple vacation picker webApp that finds the right fitting vacation spot for you.
+Start Date: july 10, 2022
+Used Technologies: Html, Css, js, React.js, Express.js & Node.js (server hosted with heroku)
+Description: Simple vacation picker web-application that finds the right fitting vacation spot for you.
